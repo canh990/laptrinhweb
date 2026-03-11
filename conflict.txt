@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version B
+=======
+version A
+>>>>>>> test_conflict
